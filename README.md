@@ -1,5 +1,5 @@
-# IPyDisp 
-"IpyDisp: An Advanced Software for Simulating Insect Dynamics Across Time and Space. 
+IPyDisp 
+IpyDisp: An Advanced Software for Simulating Insect Dynamics Across Time and Space. 
 Utilizing cellular automata principles, IpyDisp offers an in-depth exploration of insect movements across both time and space. 
 Within this framework, each cell can adopt one of three states: unoccupied, colonized, or exposed. 
 Operating within a 2D grid, each cell engages with its eight surrounding counterparts. 
